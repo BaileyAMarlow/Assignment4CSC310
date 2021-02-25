@@ -1,5 +1,5 @@
 FOR SORTEDLISTPQ:
-	To run this program, all you need to do is wither change the array values for the keys and indexes, or
+	To run this program, all you need to do is either change the array values for the keys and indexes, or
 simply uncomment the user friendly interface for yourself to enter the keys and values your heart desires.
 
 FOR BINARYTREE:
